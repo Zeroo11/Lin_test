@@ -1,2 +1,2 @@
-# Lin_test
+# maxent
 Sduty github, for a test
